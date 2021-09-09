@@ -14,7 +14,7 @@ A fim de representar esses três valores, um tipo chamado Status pode ser defini
 Dados esses requisitos, cada elemento desse std::vector é um objeto do tipo HashEntry, definido como a seguir: </br>
 // Tipo de dado da tabela hash
 ```
-    struct HashEntry{
+   struct HashEntry{
         std::pair<Tkey,Tvalue> element; // guarda o par (chave,valor)
         Status status; // status, que pode ser ACTIVE, EMPTY ou DELETED
         // Construtor do struct HashEntry
