@@ -1,0 +1,22 @@
+insert 11
+974.400.589-09	Breno
+885.163.341-04	Martim
+229.558.338-19	Ryan
+863.533.542-23	Giovanna
+985.155.234-85	Vitór
+205.664.671-43	Carla
+969.923.814-31	Beatriz
+249.699.014-65	Breno
+876.502.270-06	Nicolas
+916.260.948-37	Amanda
+684.880.911-09	Sofia
+size
+search 885.163.341-04
+search 334.613.193-92
+search 818.855.338-70
+search 200.085.647-01
+search 876.502.270-06
+print
+clear
+size
+exit
